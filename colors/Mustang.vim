@@ -34,6 +34,11 @@ hi Title		guifg=#f6f3e8 guibg=NONE	gui=bold ctermfg=254 cterm=bold
 hi Visual		guifg=#faf4c6 guibg=#3c414c gui=none ctermfg=254 ctermbg=4
 hi SpecialKey	guifg=#808080 guibg=#343434 gui=none ctermfg=244 ctermbg=236
 
+" Tabs
+hi TabLine guifg=#808080 guibg=#000000 gui=none ctermfg=244 ctermbg=232 cterm=none
+hi TabLineSel guibg=#2d2d2d gui=bold ctermbg=236 cterm=none cterm=bold
+hi TabLineFill guifg=#808080 guibg=#000000 gui=none ctermfg=244 ctermbg=232 cterm=none
+
 " Syntax highlighting
 hi Comment 		guifg=#808080 gui=italic ctermfg=244
 hi Todo 		guifg=#8f8f8f gui=italic ctermfg=245
