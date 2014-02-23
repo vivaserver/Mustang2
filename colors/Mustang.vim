@@ -36,7 +36,7 @@ hi SpecialKey	guifg=#808080 guibg=#343434 gui=none ctermfg=244 ctermbg=236
 
 " Tabs
 hi TabLine guifg=#808080 guibg=#000000 gui=none ctermfg=244 ctermbg=232 cterm=none
-hi TabLineSel guibg=#2d2d2d gui=bold ctermbg=236 cterm=none cterm=bold
+hi TabLineSel guibg=#2d2d2d gui=bold ctermbg=234 cterm=none cterm=bold
 hi TabLineFill guifg=#808080 guibg=#000000 gui=none ctermfg=244 ctermbg=232 cterm=none
 
 " Syntax highlighting
